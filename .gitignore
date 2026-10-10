@@ -1,0 +1,9 @@
+﻿.env
+__pycache__/
+*.py[cod]
+logs/
+data/weather.csv
+
+.vscode/
+docker-compose.yaml.backup
+config/
